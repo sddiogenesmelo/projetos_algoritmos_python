@@ -8,3 +8,5 @@ valor1 = float(input("Digite o valor para calculo:")) # Entrada do valor para ca
 raio = valor1 / 2
 
 print ("\nO valor do raio de uma circunferência é:" ,raio)
+
+# Consulta de calculo realizada.
