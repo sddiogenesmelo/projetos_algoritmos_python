@@ -1,8 +1,10 @@
-nota01 = input("Digite a primeira nota: ")
+# Programa digite a primeira nota, a segunda nota o nome do aluno e imprima a média.
 
-nota02 = input("Digite a segunda nota: ")
+nota01 = input("Digite a primeira nota: ") # Entrada valor 01
 
-name = input("Digite o nome do aluno: ")
+nota02 = input("Digite a segunda nota: ") # Entrada valor 02
+
+name = input("Digite o nome do aluno: ") # Entrada nome aluno
 
 media = (float(nota01) + float(nota02)) /2
 

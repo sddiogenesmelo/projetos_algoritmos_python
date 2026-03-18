@@ -7,10 +7,10 @@ nome = str(input("\nDigite seu nome:")) # Entrada do nome
 idade = int(input("\nDigite sua idade:")) # Entrada da idade
 
 if (idade <= 16):
-    print("\nVocê não atingiu a idade para votar!") #Estrutura condicional se idade menor ou igual: Não vota
+    print (nome + " você não atingiu a idade para votar!") #Estrutura condicional se idade menor ou igual: Não vota
 
 else:
-    if (idade >= 70):
-        print("\nSeu voto é opcional.")# Estrutura condicional se idade maior que: Seu voto é opcional
+    if (idade >= 71):
+        print(nome + " seu voto é opcional.")# Estrutura condicional se idade maior que: Seu voto é opcional
     else:
         print("\nBem feito " + nome + " kkk, se fu*** você vai votar e ainda vai trabalhar como mesário.")
