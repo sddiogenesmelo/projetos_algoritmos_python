@@ -1,4 +1,5 @@
 # Aula Python 14/05/2026
+# Verificar idade se está apto para votar 
 
 idade = int (input("Digite a sua idade: "))
 

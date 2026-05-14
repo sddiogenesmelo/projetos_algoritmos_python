@@ -18,6 +18,9 @@ Calcule o raio de uma circunferência - Entrada de um valor - saída do calculo 
 ### Programa 06 (opcional):
 Faça um programa que calcule a idade do usuário, e se tiver menos de 16 anos não poderá votar, só pode votar entre 17 a 70 anos e opção de voto para maior de 70 anos.
 
+### Programa 07:
+Algoritmos para verificar idade se está apto para votar.
+
 
 
 Prof.Marcelo Fontana
